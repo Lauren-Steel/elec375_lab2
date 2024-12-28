@@ -1,0 +1,4 @@
+python train.py --no-augment
+python train.py --flip
+python train.py --rotate 
+python train.py --flip --rotate
